@@ -15,23 +15,22 @@ widgets_on_small_screens: false ## Set to true to enable widgets on small screen
 
 menu:
   - page: 概述
-    directory: overview.html
+    directory: overview/overview.html
     icon: fa-home
-  - page: 调研
-    directory: archives/
-    icon: fa-archive
   - page: 信息架构
-    directory: about/
+    directory: ia/ia.html
     icon: fa-sitemap
   - page: 交互设计
-    directory: atom.xml
+    directory: ux/ux.html
     icon: fa-television
   - page: 内容撰写
-    directory: /write
+    directory: write/write.html
     icon: fa-pencil
   - page: 资源
-    directory: resource.html
+    directory: resource/resource.html
     icon: fa-cloud-download
+
+ 
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
