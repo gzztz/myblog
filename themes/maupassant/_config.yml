@@ -14,23 +14,23 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 widgets_on_small_screens: false ## Set to true to enable widgets on small screens.
 
 menu:
-  - page: 概述
+  - page: 泽学
     directory: overview/overview.html
     icon: fa-home
-  - page: 信息架构/fucker
+  - page: Exciting!
     directory: ia/ia.html
     icon: fa-sitemap
-  - page: 交互设计
+  - page: 总设计师
     directory: ux/ux.html
     icon: fa-television
-  - page: 内容撰写
+  - page: 学习一个
     directory: write/write.html
     icon: fa-pencil
-  - page: 资源
+  - page: 微小的贡献
     directory: resource/resource.html
     icon: fa-cloud-download
 
- 
+
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
